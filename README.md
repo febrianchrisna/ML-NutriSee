@@ -3,7 +3,7 @@
 ## Google Colab Notebooks
 
 - **Food Detection**: [Food Detection Colab Notebook](https://colab.research.google.com/drive/1V1Jrl1JT1RUiiPgB7BnoZcR_A30UIx1x?usp=sharing)
-- **Food Recommendation**: [Food Recommendation Colab Notebook](([https://colab.research.google.com/drive/1OeUAl22Mv7Iwx1aa2VvaB-fM1hO2r1Zh?usp=sharing]))
+- **Food Recommendation**: [Food Recommendation Colab Notebook](https://colab.research.google.com/drive/1OeUAl22Mv7Iwx1aa2VvaB-fM1hO2r1Zh?usp=sharing])
 
 
 ## Datasets
